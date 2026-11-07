@@ -1,0 +1,36 @@
+{"logTime": "1106/190735", "session": "START"}
+{"logTime": "1106/190735", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "1106/190735", "level": "INFO", "location": "chrome\\browser\\ui\\startup\\startup_browser_creator_impl.cc:448 EdgeLogLastSessionExitTypeOnStartup", "message": "Previous Session Exit Type: PreviousSessionExitType::kNormalBrowserShutDown"}
+{"logTime": "1106/190735", "level": "INFO", "location": "chrome\\browser\\ui\\startup\\startup_browser_creator_impl.cc:1698 DetermineURLsAndLaunch", "message": "Startup Preference: 0"}
+{"logTime": "1106/190735", "level": "INFO", "location": "chrome\\browser\\ui\\startup\\startup_browser_creator_impl.cc:1700 DetermineURLsAndLaunch", "message": "Browser Open Behavior: 0"}
+{"logTime": "1106/190738", "level": "INFO", "location": "components\\sessions\\core\\command_storage_manager.cc:644 operator()", "message": "No session files found for SessionType SessionRestore"}
+{"logTime": "1106/191516", "level": "INFO", "location": "chrome\\browser\\sessions\\edge_exit_type_tracker.cc:192 SetExitTypeInternal", "message": "Clearing autorestore crash exit count for profile"}
+{"logTime": "1106/191516", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionService exit: 1 tabs, 1 windows across the session."}
+{"logTime": "1106/191516", "session": "END"}
+{"logTime": "1106/191955", "session": "START"}
+{"logTime": "1106/191955", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "1106/191955", "level": "INFO", "location": "chrome\\browser\\ui\\startup\\startup_browser_creator_impl.cc:448 EdgeLogLastSessionExitTypeOnStartup", "message": "Previous Session Exit Type: PreviousSessionExitType::kNormalBrowserShutDown"}
+{"logTime": "1106/191955", "level": "INFO", "location": "chrome\\browser\\ui\\startup\\startup_browser_creator_impl.cc:1698 DetermineURLsAndLaunch", "message": "Startup Preference: 0"}
+{"logTime": "1106/191955", "level": "INFO", "location": "chrome\\browser\\ui\\startup\\startup_browser_creator_impl.cc:1700 DetermineURLsAndLaunch", "message": "Browser Open Behavior: 0"}
+{"logTime": "1106/192118", "level": "INFO", "location": "chrome\\browser\\sessions\\edge_exit_type_tracker.cc:192 SetExitTypeInternal", "message": "Clearing autorestore crash exit count for profile"}
+{"logTime": "1106/192118", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionService exit: 1 tabs, 1 windows across the session."}
+{"logTime": "1106/192118", "session": "END"}
+{"logTime": "1106/192154", "session": "START"}
+{"logTime": "1106/192154", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "1106/192154", "level": "INFO", "location": "chrome\\browser\\ui\\startup\\startup_browser_creator_impl.cc:448 EdgeLogLastSessionExitTypeOnStartup", "message": "Previous Session Exit Type: PreviousSessionExitType::kNormalBrowserShutDown"}
+{"logTime": "1106/192154", "level": "INFO", "location": "chrome\\browser\\ui\\startup\\startup_browser_creator_impl.cc:1698 DetermineURLsAndLaunch", "message": "Startup Preference: 0"}
+{"logTime": "1106/192154", "level": "INFO", "location": "chrome\\browser\\ui\\startup\\startup_browser_creator_impl.cc:1700 DetermineURLsAndLaunch", "message": "Browser Open Behavior: 0"}
+{"logTime": "1106/192156", "level": "INFO", "location": "components\\sessions\\core\\command_storage_manager.cc:644 operator()", "message": "Delete session file Session_13438465658319947, for SessionType SessionRestore"}
+{"logTime": "1106/192512", "level": "INFO", "location": "chrome\\browser\\sessions\\edge_exit_type_tracker.cc:192 SetExitTypeInternal", "message": "Clearing autorestore crash exit count for profile"}
+{"logTime": "1106/192512", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionService exit: 1 tabs, 1 windows across the session."}
+{"logTime": "1106/192513", "session": "END"}
+{"logTime": "1106/192539", "session": "START"}
+{"logTime": "1106/192539", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionServiceEvent: kStart - {\r\n   \"crashed\": false,\r\n   \"type\": 0\r\n}\r\n"}
+{"logTime": "1106/192539", "level": "INFO", "location": "chrome\\browser\\ui\\startup\\startup_browser_creator_impl.cc:448 EdgeLogLastSessionExitTypeOnStartup", "message": "Previous Session Exit Type: PreviousSessionExitType::kNormalBrowserShutDown"}
+{"logTime": "1106/192539", "level": "INFO", "location": "chrome\\browser\\ui\\startup\\startup_browser_creator_impl.cc:1698 DetermineURLsAndLaunch", "message": "Startup Preference: 0"}
+{"logTime": "1106/192539", "level": "INFO", "location": "chrome\\browser\\ui\\startup\\startup_browser_creator_impl.cc:1700 DetermineURLsAndLaunch", "message": "Browser Open Behavior: 0"}
+{"logTime": "1106/192541", "level": "INFO", "location": "components\\sessions\\core\\command_storage_manager.cc:644 operator()", "message": "Delete session file Session_13438466398106132, for SessionType SessionRestore"}
+{"logTime": "1106/192541", "level": "INFO", "location": "components\\sessions\\core\\command_storage_manager.cc:644 operator()", "message": "Delete session file Session_13438465658319947, for SessionType SessionRestore"}
+{"logTime": "1106/192654", "level": "INFO", "location": "chrome\\browser\\sessions\\edge_exit_type_tracker.cc:192 SetExitTypeInternal", "message": "Clearing autorestore crash exit count for profile"}
+{"logTime": "1106/192654", "level": "INFO", "location": "chrome\\browser\\sessions\\session_service_log.cc:326 EdgeLogSessionServiceMessage", "message": "SessionService exit: 1 tabs, 1 windows across the session."}
+{"logTime": "1106/192654", "session": "END"}
